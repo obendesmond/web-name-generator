@@ -6,14 +6,7 @@
 # testing
 **coverage
 
-/client/.babelrc
-/client/.eslintignore
-/client/.eslintrc.js
-/client/bower.json
-/client/CHANGELOG.md
 /client/delivery.mp4
-/client/gulpfile.js
-/client/ISSUE_TEMPLATE.md 
 
 # production
 **build
